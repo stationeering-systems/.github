@@ -1,9 +1,9 @@
-# Stationeering Systems IC10 Systems Library
+# Stationeering Systems IC10 Library
 
 > Note: This project is unaffiliated with [stationeering.com](https://stationeering.com) or other external Stationeers initiatives.  All systems and documentation are independently developed and focused on modular, resilient IC10-based control for advanced infrastructure design.
 
 ## Overview
-The Stationeering IC10 Systems Library is a multi-repository engineering archive dedicated to system design and automation for **Stationeers**.  Each repository corresponds to a planetary environment and operational tier, and includes:
+The Stationeering Systems IC10 Library is a multi-repository engineering archive dedicated to system design and automation for **Stationeers**.  Each repository corresponds to a planetary environment and operational tier, and includes:
 
 * Deployment-ready IC10 scripts
 * Operations manuals and readiness checklists
