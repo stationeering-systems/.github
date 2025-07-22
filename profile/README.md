@@ -1,4 +1,4 @@
-# Stationeering IC10 Systems Library
+# Stationeering Systems IC10 Systems Library
 
 > Note: This project is unaffiliated with [stationeering.com](https://stationeering.com) or other external Stationeers initiatives.  All systems and documentation are independently developed and focused on modular, resilient IC10-based control for advanced infrastructure design.
 
